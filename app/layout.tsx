@@ -15,9 +15,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "壳儿 - 免费影视在线观看",
+  title: "好哥视频 - 好哥科技旗下视频平台 · 微信搜一搜：好哥科技",
   description:
-    "壳儿 - 免费观看最新热门影视剧集，海量高清资源在线播放，支持多集连播",
+    "好哥视频 - 好哥科技旗下视频平台 · 微信搜一搜：好哥科技 · 免费观看最新热门影视剧集，海量高清资源在线播放，支持多集连播",
 };
 
 export default function RootLayout({
