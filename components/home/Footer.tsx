@@ -72,7 +72,7 @@ export function Footer() {
             </a>
 
              <a
-              href="https://github.com/wzx894/kersp11"
+              href="https://weibo.com/u/5750634626"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-300 transition-colors flex items-center gap-1"
@@ -84,7 +84,7 @@ export function Footer() {
                   clipRule="evenodd"
                 />
               </svg>
-              GitHub
+              技术员@王梓先Zking
             </a>
 
             <button
