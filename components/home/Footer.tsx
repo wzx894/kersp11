@@ -34,6 +34,9 @@ export function Footer() {
               </span>
               （如爱奇艺、腾讯视频、优酷等）观看影视内容，以支持影视创作者。
             </p>
+          <p>
+            技术支持群：246888854 ，更多微信搜一搜：好哥科技
+          </p>
             <p className="text-xs text-gray-500 mt-4">
               使用本站服务即表示您同意遵守相关法律法规，并自行承担使用本站服务可能产生的风险和责任。
             </p>
@@ -46,14 +49,14 @@ export function Footer() {
         {/* 底部信息 */}
         <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-gray-500">
           <div className="flex items-center gap-2">
-            <span>© 2026 壳儿</span>
+            <span>© 2026 - 2027 好哥科技 . 旗下：好哥视频</span>
             <span className="text-gray-700">|</span>
-            <span>仅供学习交流使用</span>
+            <span>仅供学习交流使用。更多微信搜：好哥科技</span>
           </div>
 
           <div className="flex items-center gap-6">
             <a
-              href="https://github.com/unilei/kerkerker"
+              href="https://github.com/wzx894/kersp11"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-300 transition-colors flex items-center gap-1"
