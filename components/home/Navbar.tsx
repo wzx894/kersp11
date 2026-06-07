@@ -45,8 +45,7 @@ export function Navbar({ scrolled, onSearchOpen }: NavbarProps) {
       icon: Github,
       external: true,
     },
-  ],
-
+  
     {
       href: "https://weibo.com/u/5750634626",
       label: "技术",
